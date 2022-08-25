@@ -8,7 +8,7 @@ module:
     extended: no
     min: 0.80.0
 params:
-  author: Olga Chyzh
+  author: Olga V. Chyzh
   dateFormat: '2006-01-02'
   description: My awesome blog
   footer:
