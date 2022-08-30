@@ -1,3 +1,4 @@
+="======"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2FNetworkAnalysis%2Fconfig.yaml="C76161BE"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2FNetworkAnalysis%2Fcontent%2Fschedule.markdown="7DC3552A"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2FNetworkAnalysis%2Flayouts%2Fpartials%2Ffoot_custom.html="6E07E6A0"
@@ -5,12 +6,12 @@ C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2FREADME.md="A880FB81"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Farchetypes%2Fdefault.md="B6756915"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fconfig.yaml="0738AC97"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fcontent%2Falltaxa%2F_index.md="AF6EB4E1"
+C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fcontent%2Fmediaing%2F_index.md="3978F02F"
+C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fcontent%2Fpost%2F2020-12-01-r-rmarkdown%2Findex.Rmd="3DBFAB09"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fcontent%2Fpost%2F_index.md="E1CC1C57"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fcontent%2Fpost%2Fpost%20(1).md="C42BE83E"
-<<<<<<< HEAD
+C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fcontent%2Freproducible_research.Rmd="21D3F993"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fcontent%2Fresearching%2F_index.md="D1CEA605"
-=======
->>>>>>> 380e76bf08de7feb721038295332533aea9e4222
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fcontent%2Fschedule.markdown="E17D9D30"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Findex.Rmd="24201B70"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2F_default%2Fbaseof.html="06144102"
@@ -20,6 +21,7 @@ C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fpartials%2Fc
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fpartials%2Ffooter.html="AB3B31EE"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fpartials%2Fhead.html="D5D30FD6"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fpartials%2Fimage-social.html="C5F95F34"
+C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fpartials%2Fmedia.html="91490773"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fpartials%2Fmetadata.html="9D60B28A"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fpartials%2Fnavbar.html="4C954780"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fpartials%2FprevNext.html="823F8A80"
@@ -30,16 +32,14 @@ C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fpartials%2Ft
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fpartials%2Fteaching.html="D4AB2485"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fsection%2Falltaxa.html="F766AB6A"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fsection%2Fcurriculum_vitae.html="2BE7822A"
+C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fsection%2Fmediaing.html="4A35A130"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fsection%2Fresearching.html="4740E1C6"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fsection%2Fteaching.html="6FA67BE5"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Flayouts%2Fshortcodes%2Fblogdown%2Fpostref.html="FD2EB294"
-<<<<<<< HEAD
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fnetlify.toml="4ADA96F3"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fpublic%2Fpost%2F2020-12-01-r-rmarkdown%2Findex.Rmd="F2DC67B0"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fthemes%2Fmero%2FexampleSite%2Fconfig.toml="16D57E70"
+C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fthemes%2Fmero%2FexampleSite%2Fcontent%2Fpost%2F_index.md="93CBD0D7"
+C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fthemes%2Fmero%2FexampleSite%2Fcontent%2Fpost%2Fpost%20(1).md="A71E1ED6"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fthemes%2Fmero%2Flayouts%2Fpartials%2Fnavbar.html="41450C2B"
 C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fthemes%2Fmero%2Ftheme.toml="0CB3D973"
-=======
-C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fpublic%2Fpost%2F2020-12-01-r-rmarkdown%2Findex.Rmd="F2DC67B0"
-C%3A%2FUsers%2Fochyz%2FDropbox%2FGithub%2Folgas_website%2Fthemes%2Fmero%2Flayouts%2Fpartials%2Fnavbar.html="41450C2B"
->>>>>>> 380e76bf08de7feb721038295332533aea9e4222
