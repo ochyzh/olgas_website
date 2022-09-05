@@ -1,7 +1,7 @@
 baseURL: /
 languageCode: en-us
 title: Olga's Website
-GoogleAnalyticsID: G-L6KBH0GRZT
+googleAnalytics: G-L6KBH0GRZT
 theme: mero
 disableKinds: taxonomyTerm
 module:
