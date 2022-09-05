@@ -1,16 +1,5 @@
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalytics}}"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', '{{ .Site.Params.googleAnalytics}}');
-</script>
-<!-- End of Global site tag (gtag.js) - Google Analytics -->
-
-<title>{{ .Site.Title }}</title>
+  <title>{{ .Site.Title }}</title>
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1.0" name="viewport" />
   <meta name="description" content="{{ .Site.Params.description }}" />
