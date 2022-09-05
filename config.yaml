@@ -1,6 +1,7 @@
-baseURL: /
+baseURL: https://olgachyzh.com/
 languageCode: en-us
 title: Olga's Website
+GoogleAnalyticsID: G-L6KBH0GRZT
 theme: mero
 disableKinds: taxonomyTerm
 module:
