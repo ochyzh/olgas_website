@@ -1,5 +1,15 @@
 <html>
   <head>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.GoogleAnalyticsID}}"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', '{{ .Site.Params.GoogleAnalyticsID}}');
+</script>
+<!-- End of Global site tag (gtag.js) - Google Analytics -->
     <title>Olga's CV</title>
   </head>
   <a href="../Chyzh_CV.pdf"> Download pdf <i class="fas fa-file-download"></i></a>
