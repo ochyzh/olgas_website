@@ -1,4 +1,18 @@
 {{ define "main" }}
-<h1 class="mt-4"> Olga's CV </h1>
+<h1 class="mt-4">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L6KBH0GRZT"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', '{{ .Site.Params.GoogleAnalyticsID}}');
+</script>
+<!-- End of Global site tag (gtag.js) - Google Analytics -->
+
+
+
+   Olga's CV </h1>
 {{ partial "cv" (dict "this" $.Site.Taxonomies "showAll" true "heading" "CV") }}
 {{ end }}
