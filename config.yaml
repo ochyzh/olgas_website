@@ -15,7 +15,7 @@ params:
   footer:
     message: '&copy; 2022 Olga Chyzh'
   introduction:
-    text: 'I am an Assistant Professor in the Department of Political Science at the University of Toronto.  I earned my PhD in Political Science from the University of Iowa in 2013.  My research areas are political methodology and international relations.  I have published on such topics as human rights, international trade, autocratic regimes, and network analysis. My articles have appeared or are forthcoming in the American Journal of Political Science, Journal of Politics, Political Analysis, and Canadian Journal of Political Science, among others. Please visit my research page to download recent publications and working papers. My teaching page provides additional information about the courses I have instructed and some tools I have developed for my classrooms.'
+    text: 'I am an Associate Professor of Political Science at the University of Toronto.  I earned my PhD in Political Science from the University of Iowa in 2013.  My research areas are political methodology and international relations.  I have published on such topics as human rights, international trade, autocratic regimes, and network analysis. My articles have appeared or are forthcoming in the American Journal of Political Science, Journal of Politics, Political Analysis, and Canadian Journal of Political Science, among others. Please visit my research page to download recent publications and working papers. My teaching page provides additional information about the courses I have instructed and some tools I have developed for my classrooms.'
   mainImage: images/main.jpeg
   social:
     list:
